@@ -1,6 +1,5 @@
 import React from "react";
-import { View, Text, StyleSheet, FlatList, Item } from "react-native";
-import { Input, List, Icon } from "antd";
+import { View, Text, StyleSheet, FlatList } from "react-native";
 
 class searchHistoryContainer extends React.Component {
   render() {
